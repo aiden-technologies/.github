@@ -7,4 +7,4 @@ At Aiden's Suite for Digital Education, we are committed to revolutionizing the 
 ### Vision
 Our vision at Aiden Technologies is to create a world where learning is engaging, accessible, and personalized for every individual, empowering students, teachers, and professionals to reach their full potential through the use of intelligent assistance technology, tools, data and content.
 
-You can test Aiden (here)[https://askaiden.ai)
+You can test Aiden at https://askaiden.ai
